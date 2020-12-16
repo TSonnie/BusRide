@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93212857380",
+    "project_id": "busride-602d5",
+    "storage_bucket": "busride-602d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93212857380:android:60a57d1b2b1ad17cc8b4b1",
+        "android_client_info": {
+          "package_name": "com.hfad.busride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93212857380-2p45v2rlaqc04sa71qnn9nupmgr86b2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDRaDeXwKV4rGe1fguBTaELj9BGYpGkUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93212857380-2p45v2rlaqc04sa71qnn9nupmgr86b2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
